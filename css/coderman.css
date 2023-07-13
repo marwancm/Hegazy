@@ -1432,6 +1432,7 @@ header .mega-menu .image img {
   border-radius: 5px;
   cursor: pointer;
   transition: 0.5s;
+  z-index: 1;
 }
 .scroll-to-top i {
   display: flex;
