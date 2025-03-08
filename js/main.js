@@ -13,7 +13,7 @@ window.addEventListener("scroll", () => {
 //End Scroll-line-header
 
 //Start countDownDate
-let countDownDate = new Date("Dec 31, 2024 23:59:59").getTime();
+let countDownDate = new Date("Dec 31, 2025 23:59:59").getTime();
 
 let counter = setInterval(() => {
   let dateNow = new Date().getTime();
